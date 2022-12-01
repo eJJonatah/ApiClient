@@ -1,0 +1,7 @@
+﻿Logging=true
+Aes_Key=
+Aes_Iv=
+OutPut=Data\Output
+Cache=Assets\Cache
+Resources=Assets\Resc
+Logs=Assets\Cache\Logs
